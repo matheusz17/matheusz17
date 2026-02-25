@@ -1,11 +1,11 @@
 <h1 align="center">Fala dev, procurando por algo?</h1>
-<h3 align="center">Análise e Desenvolvimento de Sistemas | Backend & Fullstack em construção</h3>
+
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-livid-gamma-52.vercel.app/api?username=matheusz17&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br" height="170"/>
-  <img src="https://github-readme-stats-livid-gamma-52.vercel.app/api/top-langs?username=matheusz17&layout=compact&langs_count=6&theme=dark&locale=pt-br" height="170"/>
+  <img src="https://github-readme-stats-livid-gamma-52.vercel.app/api?username=matheusz17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-livid-gamma-52.vercel.app/api/top-langs?username=matheusz17&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
@@ -44,26 +44,19 @@
 
 ### Vamos nos conectar!
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; margin-top: 20px;">
-
+<div align="left">
   <a href="https://www.instagram.com/_math3usz/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"
-         style="transform: scale(1.6);" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-
   <a href="mailto:matheusdaniel2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"
-         style="transform: scale(1.6);" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-
   <a href="https://www.linkedin.com/in/matheus-daniel17" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin"
-         style="transform: scale(1.6);" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
 </div>
 
----
+
 
 <br clear="both">
 
